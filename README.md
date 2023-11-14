@@ -16,3 +16,4 @@
 | -         | Dash (or Hyphen minus)      | Tiret                        |
 | _         | Underscore                  | Tiret bas                    |
 | ^         | Caret                       | Accent circonflexe           |
+| *         | Asterisk                    | astérisque                   |
